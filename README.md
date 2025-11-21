@@ -8,3 +8,8 @@ Download LoQANT:
 3. Launch Fiji and LoQANT is now to be found in Plugins menu. (Note: If the Fiji has been already open, it needs to be restarted.)
 
 For details, please follow the User Manual provided in this repository. The user manual has been updated for LoQANT_batch usage.
+
+
+If you use LoQANT, please cite: 
+Cizkova, K.: LoQANT: An ImageJ Plugin for Quantifying Nuclear Staining in Immunohistochemistry and Immunofluorescence. 
+Int J Mol Sci, 2025; 26(21), 10799; doi.org/10.3390/ijms262110799.
